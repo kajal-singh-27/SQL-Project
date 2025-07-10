@@ -18,7 +18,7 @@ This analysis emphasizes data-driven decision-making in reducing churn rates and
 
 Getting Started:-
 
-1- Clone the repository to your local machine: git clone https://github.com/Gaurav-Singh-DS/SQL-Project.git
+1- Clone the repository to your local machine: https://github.com/kajal-singh-27/SQL-Project.git
 
 2- Navigate to the project directory: cd SQL-Project
 
